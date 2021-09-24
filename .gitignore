@@ -1,3 +1,5 @@
 aws sample url.txt
 moduleActivities.ipynb
 challenge_schema.sql
+*.Thumbs.db
+challenge_schema.sql
